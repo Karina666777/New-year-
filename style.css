@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+header{
+   background-color: aquamarine;
+   border-radius: 15px;
+}
+nav{
+   padding: 15px;
+   background-color: aquamarine;
+   border-radius: 15px;
+}
+nav a{
+    background-color: white;
+    padding: 8px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+ h1{
+    background-color: aquamarine;
+    border-radius: 15px;
+    width: 250px;
+
+}
+footer{
+   padding: 15px;
+   background-color: aquamarine;
+   width: 400px;
+   border-radius: 15px;
+   text-decoration: black;
+}
+   
